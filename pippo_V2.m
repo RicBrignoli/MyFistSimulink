@@ -10,11 +10,6 @@ Y = 3*Y;
 
 Y = 4*Y;
 
-
-% Modifica Andrea
-
-X = 23*Y^2;
-
  end
 
 %booo
