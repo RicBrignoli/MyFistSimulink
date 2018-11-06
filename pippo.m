@@ -6,6 +6,8 @@ Y = Y^2;
 
 Y = 2*Y;
 
+Y = 3*Y;
+
  end
 
 %booo
